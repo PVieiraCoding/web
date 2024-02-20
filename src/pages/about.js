@@ -60,8 +60,8 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                Hi, I&apos;m <strong>Pedro Vieira</strong>, a web developer and
-                UI/UX designer with a passion for creating beautiful,
+                Hi, I&apos;m <strong>Pedro Vieira</strong>, an Systems and Networks Administration and
+               Freelancer Developer with a passion for creating beautiful,
                 functional, and user-centered digital experiences. With <b>23+</b> years
                 of experience in the field. I am always looking for new and
                 innovative ways to bring my clients&apos; visions to life!
@@ -72,8 +72,8 @@ export default function About() {
                 intuitive, enjoyable experiences for users.
               </p>
               <p className="font-medium">
-                Whether I&apos;m working on a website, online shopping solutions, software, or other
-                digital product, I bring my commitment to design excellence and
+                Whether I&apos;m working on a website, CRM solutions, repair of software and hardware, or other, 
+                I bring my commitment to design excellence and
                 user-centered thinking to every project I work on. I look
                 forward to the opportunity to bring my skills and passion to
                 your next project.
