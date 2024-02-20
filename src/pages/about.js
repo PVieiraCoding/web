@@ -60,7 +60,7 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                Hi, I&apos;m <strong>Pedro Vieira</strong>, an IT Tech and
+                Hi, I&apos;m <strong>Pedro Vieira</strong>, IT Tech and
                Freelancer Developer with a passion for creating beautiful,
                 functional, and user-centered digital experiences. With <b>23+</b> years
                 of experience in the field. I am always looking for new and
@@ -72,7 +72,7 @@ export default function About() {
                 intuitive, enjoyable experiences for users.
               </p>
               <p className="font-medium">
-                Whether I&apos;m working on a website, CRM solutions, repair of software and hardware, or other, 
+                Whether I&apos;m working on a website, CRM solutions, development software or other, 
                 I bring my commitment to design excellence and
                 user-centered thinking to every project I work on. I look
                 forward to the opportunity to bring my skills and passion to
