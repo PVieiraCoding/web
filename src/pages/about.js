@@ -120,7 +120,7 @@ export default function About() {
           <Skills />
           <Experience />
           <Education />
-        </Layout />
+        <Layout />
       </main>
     </>
   );
