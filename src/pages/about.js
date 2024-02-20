@@ -38,8 +38,10 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>Portfolio | Pedro Vieira Coding</title>
-        <meta name="description" content="Portfolio and insights" />
+        <title>Minimal Portfolio Built with Nextjs | About Page</title>
+        <meta name="description" content="Learn more about CodeBucks, a Next.js developer with a passion for 
+        creating innovative solutions. Discover tips for building a developer portfolio and insights on 
+        full-stack development, front-end development, and back-end development." />
       </Head>
       <TransitionEffect />
       <main
@@ -58,11 +60,11 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                Hi, I&apos;m <strong>Pedro Vieira</strong>, a IT Network and Systems Administration, freelancer developer and
+                Hi, I&apos;m <strong>CodeBucks</strong>, a web developer and
                 UI/UX designer with a passion for creating beautiful,
-                functional, and user-centered digital experiences. With 15+ years
+                functional, and user-centered digital experiences. With 4 years
                 of experience in the field. I am always looking for new and
-                innovative ways to bring my clients&apos; visions to life!
+                innovative ways to bring my clients&apos; visions to life.
               </p>
               <p className="my-4 font-medium">
                 I believe that design is about more than just making things look
@@ -70,7 +72,7 @@ export default function About() {
                 intuitive, enjoyable experiences for users.
               </p>
               <p className="font-medium">
-                Whether I&apos;m working on a website, software app, or other
+                Whether I&apos;m working on a website, mobile app, or other
                 digital product, I bring my commitment to design excellence and
                 user-centered thinking to every project I work on. I look
                 forward to the opportunity to bring my skills and passion to
@@ -89,16 +91,28 @@ export default function About() {
               <Image
                 className="h-auto w-full rounded-2xl"
                 src={profile}
-                alt="Pedro Vieira Coding"
+                alt="Codebucks"
                 sizes="(max-width: 768px) 100vw,
               (max-width: 1200px) 50vw,
               33vw"
                 priority
               />
             </div>
+            <div className="col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row 
+            xl:items-center md:order-3">
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumberFramerMotion value={20} />+
+                  <AnimatedNumberFramerMotion value={40} />+
+                </span>
+                <h2 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
+                xl:text-center md:text-lg sm:text-base xs:text-sm">
+                  satisfied clients
+                </h2>
+              </div>
+
+              <div className="flex flex-col items-end justify-center xl:items-center">
+                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
+                  <AnimatedNumberFramerMotion value={50} />+
                 </span>
                 <h2 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
@@ -108,7 +122,7 @@ export default function About() {
 
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumberFramerMotion value={15} />+
+                  <AnimatedNumberFramerMotion value={4} />+
                 </span>
                 <h2 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
@@ -117,10 +131,11 @@ export default function About() {
               </div>
             </div>
           </div>
-          </Layout>
+
           <Skills />
           <Experience />
           <Education />
+        </Layout>
       </main>
     </>
   );
