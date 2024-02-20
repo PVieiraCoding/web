@@ -118,7 +118,6 @@ export default function About() {
                 </h2>
               </div>
             </div>
-          </div>
 
           <Skills />
           <Experience />
