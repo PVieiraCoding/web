@@ -47,7 +47,7 @@ const Education = () => {
             type="Cybersecurity Essentials"
             time="2021"
             place="Cisco Systems, Inc."
-            info="Foundational knowledge of cybersecurity, including the basics of network security, encryption and cybersecurity laws. <br>Tactics and techniques used by Black Hats, and the principles of Confidentiality, Integrity, and Availability used by White Hats to defend networks."
+            info="Foundational knowledge of cybersecurity, including the basics of network security, encryption and cybersecurity laws. Tactics and techniques used by Black Hats, and the principles of Confidentiality, Integrity, and Availability used by White Hats to defend networks."
           />
         </ul>
       </div>
