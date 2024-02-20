@@ -62,7 +62,7 @@ export default function About() {
               <p className="font-medium ">
                 Hi, I&apos;m <strong>Pedro Vieira</strong>, a web developer and
                 UI/UX designer with a passion for creating beautiful,
-                functional, and user-centered digital experiences. With 23+ years
+                functional, and user-centered digital experiences. With <b>23+</b> years
                 of experience in the field. I am always looking for new and
                 innovative ways to bring my clients&apos; visions to life!
               </p>
@@ -98,25 +98,6 @@ export default function About() {
                 priority
               />
             </div>
-              <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumberFramerMotion value={25} />+
-                </span>
-                <h2 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
-                xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  projects completed
-                </h2>
-              </div>
-
-              <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumberFramerMotion value={23} />+
-                </span>
-                <h2 className="mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 
-                xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  Years of experience
-                </h2>
-              </div>
             </div>
 
           <Skills />
