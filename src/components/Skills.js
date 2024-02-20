@@ -40,7 +40,7 @@ const Skills = () => {
         <motion.div whileHover={{scale:1.05}} className="cursor-pointer flex rounded-full font-semibold bg-dark text-light p-8 shadow-dark
         dark:bg-light dark:text-dark lg:p-6 md:p-4 xs:text-xs xs:p-2
         ">
-        Web
+        Systems and Networks Administration
       </motion.div>
 
         <Skill name="HTML5" x="-20vw" y="2vw" />
