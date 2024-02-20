@@ -117,10 +117,10 @@ export default function About() {
               </div>
             </div>
           </div>
+          </Layout>
           <Skills />
           <Experience />
           <Education />
-        <Layout />
       </main>
     </>
   );
