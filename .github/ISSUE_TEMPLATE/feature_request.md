@@ -10,11 +10,11 @@ assignees: ""
 
 **Describe your user scenario**
 
-> Provide a clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+> Provide a clear and concise description of what the general idea is.
 
 **Describe the solution you'd like**
 
-> Provide a clear and concise description of what you want to happen, with code snippets or pseudo code as applicable.
+> Provide a clear and concise description of what you want to happen, with code snippets or pseudo code as applicable or any other examples.
 
 **Describe alternatives you've considered**
 
@@ -23,3 +23,7 @@ assignees: ""
 **Additional context**
 
 > Add any other context or screenshots about the feature request here.
+
+**Not Sure? No problem!**
+
+> Contact me by email: pvieiracoding(at)gmail(dot)com
