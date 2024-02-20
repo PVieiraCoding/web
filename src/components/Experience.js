@@ -83,7 +83,7 @@ const Experience = () => {
               companyLink="http://www.controlpanel.pt/"
               time="2006-2012"
               address="Queluz, PT"
-              work="Computer maintenance (Software and Hardware). Creation and Design of Web Pages and Social Media management. <br>Resolution of IT service requests over phone, through email, and remote support for enterprises, schools and others."
+              work="Computer maintenance (Software and Hardware). Creation and Design of Web Pages and Social Media management. Resolution of IT service requests over phone, through email, and remote support for enterprises, schools and others."
             />
             <Details
               position="IT Technician"
@@ -91,7 +91,7 @@ const Experience = () => {
               companyLink="https://gustaveeiffel.pt/"
               time="2009-2009"
               address="Amadora, PT"
-              work="Computer maintenance (Software and Hardware) and Network maintenance. <br>Resolution of IT service requests over phone, through email, and remote support."
+              work="Computer maintenance (Software and Hardware) and Network maintenance. Resolution of IT service requests over phone, through email, and remote support."
             />
             <Details
               position="IT Teacher"
@@ -107,7 +107,7 @@ const Experience = () => {
               companyLink="https://appurl.io/BY9CcLE9Iq"
               time="2017-Present"
               address="Amadora, PT"
-              work="Editor in Wikipédia Lusófona. <br>I contribute in various areas, from watching recent changes (vandalism) and improve the quality of articles, among other factors."
+              work="Editor in Wikipédia Lusófona. I contribute in various areas, from watching recent changes (vandalism) and improve the quality of articles, among other factors."
             />
           </ul>
         </div>
