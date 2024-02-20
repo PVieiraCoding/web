@@ -28,11 +28,15 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, chrome, firefox, safari]
  - Version [e.g. 120.0]
 
+**Not Sure? No problem!**
+
+Contact me by email: pvieiracoding(at)gmail(dot)com
+
 **Smartphone (please complete the following information):**
  - Device: [e.g. Android,Apple]
  - OS: [e.g. Android OS, iOS]
  - Browser [e.g. stock browser, chrome, firefox, safari]
  - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**Not Sure? No problem!**
+> Contact me by email: pvieiracoding(at)gmail(dot)com
