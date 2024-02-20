@@ -100,11 +100,21 @@ const Navbar = () => {
       >
         <motion.a
           target={"_blank"}
+          className="w-6 mr-3"
+          href="#"
+          whileHover={{ y: -2 }}
+          whileTap={{ scale: 0.9 }}
+          aria-label="Checkout my facebook profile"
+        >
+          <TwitterIcon />
+        </motion.a>
+        <motion.a
+          target={"_blank"}
           className="w-6 mx-3"
           href="#"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my Github profile"
+          aria-label="Checkout my github profile"
         >
           <GithubIcon />
         </motion.a>
@@ -114,18 +124,11 @@ const Navbar = () => {
           href="#"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my Linkedin profile"
+          aria-label="Checkout my linkedin profile"
         >
           <LinkedInIcon />
         </motion.a>
-        <motion.a
-          target={"_blank"}
-          className="w-6 mx-3 bg-light rounded-full"
-          href="#"
-          whileHover={{ y: -2 }}
-          whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my Facebook profile"
-        >
+		
         <button
           onClick={() => setMode(mode === "light" ? "dark" : "light")}
           className={`w-6 h-6 ease ml-3 flex items-center justify-center rounded-full p-1  
@@ -155,11 +158,22 @@ const Navbar = () => {
         <CustomMobileLink toggle={handleClick} className="mr-4 lg:m-0 lg:my-2" href="/" title="Home" />
         <CustomMobileLink toggle={handleClick} className="mx-4 lg:m-0 lg:my-2" href="/about" title="About" />
         <CustomMobileLink toggle={handleClick} className="mx-4 lg:m-0 lg:my-2" href="/projects" title="Projects" />
+        <CustomMobileLink toggle={handleClick} className="ml-4 lg:m-0 lg:my-2" href="/articles" title="Articles" />
       </nav>
       <nav
         className="flex items-center justify-center  mt-2
       "
       >
+        <motion.a
+          target={"_blank"}
+          className="w-6 m-1 mr-3 sm:mx-1"
+          href="#"
+          whileHover={{ y: -2 }}
+          whileTap={{ scale: 0.9 }}
+          aria-label="Checkout my twitter profile"
+        >
+          <TwitterIcon />
+        </motion.a>
         <motion.a
           target={"_blank"}
           className="w-6 m-1 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1"
@@ -180,6 +194,7 @@ const Navbar = () => {
         >
           <LinkedInIcon />
         </motion.a>
+		
         <button
           onClick={() => setMode(mode === "light" ? "dark" : "light")}
           className={`w-6 h-6 ease m-1 ml-3 sm:mx-1 flex items-center justify-center rounded-full p-1  
