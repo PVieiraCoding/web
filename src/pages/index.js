@@ -45,14 +45,6 @@ export default function Home() {
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
               As a freelancer developer, I am dedicated to turning ideas into innovative web applications. Explore my portfolio, showcasing my expertise in Development and in IT Network and Systems Administration.
               </p>
-              <div className="mt-2 flex items-center self-start lg:self-center">
-                <Link
-                  href="mailto:pvieiracoding@gmail.com"
-                  className="ml-4 text-lg font-medium capitalize text-dark underline 
-                  dark:text-light md:text-base">
-                  Contact
-                </Link>
-              </div>
             </div>
           </div>
         </Layout>
