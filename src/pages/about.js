@@ -60,7 +60,7 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                Hi, I&apos;m <strong>Pedro Vieira</strong>, an Systems and Networks Administration and
+                Hi, I&apos;m <strong>Pedro Vieira</strong>, an IT Tech and
                Freelancer Developer with a passion for creating beautiful,
                 functional, and user-centered digital experiences. With <b>23+</b> years
                 of experience in the field. I am always looking for new and
