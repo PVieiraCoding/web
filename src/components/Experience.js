@@ -61,6 +61,14 @@ const Experience = () => {
             style={{ scaleY: scrollYProgress }}
           />
           <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
+             <Details
+              position="Founder"
+              company="Pedro Vieira - A simplicidade em soluções informáticas"
+              companyLink="https://www.facebook.com/PVieiraIT/"
+              time="2020-Present"
+              address="Amadora, PT"
+              work="Founder of this home and remote IT assistance company."
+            />    
             <Details
               position="IT Technician"
               company="Asistencia Dental Especializada (ADE)"
@@ -69,7 +77,6 @@ const Experience = () => {
               address="Lisbon, PT"
               work="Systems Administration and Network maintenance, responsible for an online management platform for a vast network of dental clinics."
             />
-
             <Details
               position="IT Technician"
               company="Control Panel, Lda"
@@ -81,19 +88,11 @@ const Experience = () => {
             <Details
               position="IT Technician"
               company="Escola Profissional Gustave Eiffel"
-              companyLink="https://amazon.com"
+              companyLink="https://gustaveeiffel.pt/"
               time="2009-2009"
               address="Amadora, PT"
               work="Computer maintenance (Software and Hardware) and Network maintenance. Resolution of IT service requests over phone, through email, and remote support."
             />
-           <Details
-              position="Founder"
-              company="Pedro Vieira - A simplicidade em soluções informáticas"
-              companyLink="https://www.facebook.com/PVieiraIT/"
-              time="2020-Present"
-              address="Amadora, PT"
-              work="Founder of this home and remote IT assistance company."
-            />    
             <Details
               position="IT Teacher"
               company="Superprof"
