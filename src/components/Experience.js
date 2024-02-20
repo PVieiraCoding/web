@@ -80,7 +80,7 @@ const Experience = () => {
             <Details
               position="IT Technician"
               company="Control Panel, Lda"
-              companyLink="http://www.controlpanel.pt/"
+              companyLink="https://controlpanel.pt/"
               time="2006-2012"
               address="Queluz, PT"
               work="Computer maintenance (Software and Hardware). Creation and Design of Web Pages and Social Media management. Resolution of IT service requests over phone, through email, and remote support for enterprises, schools and others."
