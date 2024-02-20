@@ -1,6 +1,6 @@
 ---
 name: Feature request template
-about: Suggest an idea for this project
+about: The ideia for your project
 title: "[Feature Request]: <insert title here>"
 labels: enhancement, new submission
 assignees: ""
