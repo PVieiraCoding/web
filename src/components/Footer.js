@@ -25,7 +25,6 @@ const Footer = () => {
 
         <Link
           a href="https://www.buymeacoffee.com/pvieiracoding"
-          <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
           target="_blank"
           className="underline underline-offset-2"
         >
