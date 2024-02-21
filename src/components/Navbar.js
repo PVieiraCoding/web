@@ -101,16 +101,6 @@ const Navbar = () => {
         <motion.a
           target={"_blank"}
           className="w-6 mx-3"
-          href="https://github.com/PVieiraCoding/web"
-          whileHover={{ y: -2 }}
-          whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my github webpage"
-        >
-          <GithubIcon />
-        </motion.a>
-        <motion.a
-          target={"_blank"}
-          className="w-6 mx-3"
           href="https://pt.linkedin.com/in/pvieiracoding"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
@@ -153,16 +143,6 @@ const Navbar = () => {
         className="flex items-center justify-center  mt-2
       "
       >
-        <motion.a
-          target={"_blank"}
-          className="w-6 m-1 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1"
-          href="https://github.com/PVieiraCoding/web"
-          whileHover={{ y: -2 }}
-          whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my github webpage"
-        >
-          <GithubIcon />
-        </motion.a>
         <motion.a
           target={"_blank"}
           className="w-6 m-1 mx-3 sm:mx-1"
