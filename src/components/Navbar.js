@@ -101,10 +101,10 @@ const Navbar = () => {
         <motion.a
           target={"_blank"}
           className="w-6 mx-3"
-          href="https://github.com/PVieiraCoding"
+          href="https://github.com/PVieiraCoding/web"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my github profile"
+          aria-label="Checkout my github webpage"
         >
           <GithubIcon />
         </motion.a>
@@ -156,10 +156,10 @@ const Navbar = () => {
         <motion.a
           target={"_blank"}
           className="w-6 m-1 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1"
-          href="https://github.com/PVieiraCoding"
+          href="https://github.com/PVieiraCoding/web"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my github profile"
+          aria-label="Checkout my github webpage"
         >
           <GithubIcon />
         </motion.a>
