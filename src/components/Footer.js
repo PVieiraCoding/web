@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="flex items-center lg:py-2">
           Built with <span className="text-primary text-2xl px-1 dark:text-primaryDark">&#9825;	</span> by&nbsp;
           <Link
-            href="https://github.com/PVieiraCoding/"
+            href="https://pvieiracoding.github.io/web/"
             target="_blank"
             className="underline underline-offset-2"
           >
@@ -24,10 +24,12 @@ const Footer = () => {
         </div>
 
         <Link
-          href="https://pvieiracoding.github.io/webpage/about"
+          a href="https://www.buymeacoffee.com/pvieiracoding"
+          <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
           target="_blank"
           className="underline underline-offset-2"
         >
+        Buy Me A Coffee
         </Link>
       </Layout>
     </footer>
