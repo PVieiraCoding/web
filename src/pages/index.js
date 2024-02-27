@@ -14,7 +14,15 @@ export default function Home() {
   
   return (
     <>
-      <Head>
+      <Head><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SQ7BVGPVEM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SQ7BVGPVEM');
+</script>
         <title>Pedro Vieira Coding</title>
         <meta
           name="description"
