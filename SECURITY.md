@@ -10,7 +10,9 @@ I will release patches for security vulnerabilities for all the projects.
 
 ## Reporting a Vulnerability
 
-Please report (suspected) security vulnerabilities to
+Please report (suspected) security vulnerabilities to my
 **[e-mail](mailto:pvieiracoding@gmail.com)**.
+
 You will receive a response from me within 48 hours.
+
 If the issue is confirmed, i will release a patch as soon as possible depending on complexity but historically within a few days.
