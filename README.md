@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/pvieirait" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/pvieiracoding" target="_blank">
+<a href="https://github.com/pvieiracoding/web" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <br>
@@ -13,7 +13,7 @@
 Glad to see you here!<br><br>  
 I´m a freelancer developer, dedicated to turning ideas into innovative solutions!
 
-As a IT Network and Systems Administration and a freelancer developer with a passion for creating beautiful, functional, and user-centered digital experiences.
+As a IT Tech and a freelancer developer with a passion for creating beautiful, functional, and user-centered digital experiences.
 
  [Challenge me](mailto:pvieiracoding@gmail.com)  😎  
 <br/>   
